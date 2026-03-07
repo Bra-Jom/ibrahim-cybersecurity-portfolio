@@ -1,1 +1,1 @@
-
+This folder contains hands-on cybersecurity labs and exercises completed on the TryHackMe platform. The purpose of this section is to document practical learning experiences related to penetration testing, network security, system enumeration, and vulnerability analysis. etc..
